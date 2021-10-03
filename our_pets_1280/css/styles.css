@@ -490,6 +490,10 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+body a:focus {
+    outline: none;
+}
+
 /*
   ========================================
   header styles start
