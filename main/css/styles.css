@@ -241,6 +241,7 @@ body a:focus {
 .pet_card {
   background: #fafafa;
   border-radius: 9px;
+  transition: 300ms;
 }
 
 .pet_card:hover {
@@ -269,6 +270,7 @@ body a:focus {
   border: 2px solid #f1cdb3;
   border-radius: 100px;
   background-color: #fafafa;
+  transition: 200ms;
 }
 
 .pet_card_button:hover {
