@@ -1,6 +1,6 @@
-### several website pages about
+# Cozy House
 
-# Cozy House:
+several website pages about
 
 ## _Shelter for pets in Boston_
 
