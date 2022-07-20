@@ -1,6 +1,6 @@
 # Cozy House
 
-several website pages about
+several pages of the site with adaptive
 
 ## _Shelter for pets in Boston_
 
