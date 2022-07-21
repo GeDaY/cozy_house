@@ -2,6 +2,8 @@
 
 several pages of the site with adaptive
 
+- [view this work](https://geday.github.io/cozy_house/)
+
 ## _Shelter for pets in Boston_
 
 > We offer to give a chance to a little and nice puppy
